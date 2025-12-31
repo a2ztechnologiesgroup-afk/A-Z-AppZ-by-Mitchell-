@@ -1,0 +1,9 @@
+{
+  "name": "A²Z AppZ",
+  "description": "A comprehensive AI-powered application builder that generates distribute-ready web apps, simulates mobile builds, and provides a real-time preview environment using Gemini 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
